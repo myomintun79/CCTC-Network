@@ -20,3 +20,5 @@ https://www.iventoy.com/en/index.html \
 https://www.youtube.com/watch?v=2cajcKWlYyk \
 https://www.youtube.com/watch?v=oI948edU_Vk
 
+# Network Computer Cloning and Management
+https://fogproject.org/
