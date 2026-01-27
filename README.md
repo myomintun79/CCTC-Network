@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=jdcsVGSsszU&ab_channel=TunTechnology \
 https://www.youtube.com/watch?v=s1LYVSjMme4&ab_channel=ShweLaWunnCCTV \
 
 # Uniview
+https://www.youtube.com/channel/UCqx937gPiCrFIzXFKQfC5FA \
 https://www.uniview.com/AppStore/ \
 For end user ---> UniEase (Formerly UNV-Link)-First & EZView UNV \
 
