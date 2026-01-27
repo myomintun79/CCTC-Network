@@ -1,6 +1,9 @@
 # CCTV & Network
 Guide for Network admin
 
+# CCTV Technology
+https://cctvdesk.com/
+
 # Ubiquiti
 P2P \
 https://dl.ubnt.com/datasheets/PowerBeam_ac/PowerBeam_AC_Gen2_DS.pdf \
