@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=s1LYVSjMme4&ab_channel=ShweLaWunnCCTV \
 
 # Uniview
 https://www.xlrsecurity.com/uniview-tutorials/ \
+https://www.youtube.com/watch?v=sirwl24p2K4 \
 https://www.youtube.com/watch?v=fyE14H29CAo \
 https://www.uniview.com/Support/How_To/ \
 https://www.youtube.com/channel/UCqx937gPiCrFIzXFKQfC5FA \
